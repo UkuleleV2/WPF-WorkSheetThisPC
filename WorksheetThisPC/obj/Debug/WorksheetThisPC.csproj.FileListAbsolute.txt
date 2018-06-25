@@ -1,0 +1,16 @@
+C:\Users\exmor\source\repos\WorksheetThisPC\WorksheetThisPC\bin\Debug\WorksheetThisPC.exe.config
+C:\Users\exmor\source\repos\WorksheetThisPC\WorksheetThisPC\bin\Debug\WorksheetThisPC.exe
+C:\Users\exmor\source\repos\WorksheetThisPC\WorksheetThisPC\bin\Debug\WorksheetThisPC.pdb
+C:\Users\exmor\source\repos\WorksheetThisPC\WorksheetThisPC\obj\Debug\WorksheetThisPC.csprojAssemblyReference.cache
+C:\Users\exmor\source\repos\WorksheetThisPC\WorksheetThisPC\obj\Debug\MainWindow.g.cs
+C:\Users\exmor\source\repos\WorksheetThisPC\WorksheetThisPC\obj\Debug\App.g.cs
+C:\Users\exmor\source\repos\WorksheetThisPC\WorksheetThisPC\obj\Debug\WorksheetThisPC_MarkupCompile.cache
+C:\Users\exmor\source\repos\WorksheetThisPC\WorksheetThisPC\obj\Debug\WorksheetThisPC_MarkupCompile.lref
+C:\Users\exmor\source\repos\WorksheetThisPC\WorksheetThisPC\obj\Debug\MainWindow.baml
+C:\Users\exmor\source\repos\WorksheetThisPC\WorksheetThisPC\obj\Debug\WorksheetThisPC.g.resources
+C:\Users\exmor\source\repos\WorksheetThisPC\WorksheetThisPC\obj\Debug\WorksheetThisPC.Properties.Resources.resources
+C:\Users\exmor\source\repos\WorksheetThisPC\WorksheetThisPC\obj\Debug\WorksheetThisPC.csproj.GenerateResource.cache
+C:\Users\exmor\source\repos\WorksheetThisPC\WorksheetThisPC\obj\Debug\WorksheetThisPC.csproj.CoreCompileInputs.cache
+C:\Users\exmor\source\repos\WorksheetThisPC\WorksheetThisPC\obj\Debug\WorksheetThisPC.exe
+C:\Users\exmor\source\repos\WorksheetThisPC\WorksheetThisPC\obj\Debug\WorksheetThisPC.pdb
+C:\Users\exmor\source\repos\WorksheetThisPC\WorksheetThisPC\obj\Debug\WorksheetThisPC.csproj.ResolveComReference.cache
